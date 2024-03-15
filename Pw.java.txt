@@ -1,0 +1,7 @@
+class Pw
+   {
+    public static void main(string[]args)
+     {
+       ///code
+     }
+    }
